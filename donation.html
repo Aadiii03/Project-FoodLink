@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donation - FoodLink</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+       
+        <nav class="navbar">
+            <div class="brand">
+                <a href="#foodlink">
+                    <i class="fas fa-utensils"></i> FoodLink
+                </a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="signup.html">SignUp</a></li>
+                <li><a href="donation.html">Donation</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main class="donation-page">
+        <section class="donation-hero">
+            <h2>Donate Food or Funds and Make a Difference</h2>
+            <p>Your contributions can help bridge the gap between surplus and need. Choose to donate food or money today!</p>
+        </section>
+
+        <!-- Donation Options -->
+        <section class="donation-options">
+            <h3>Choose Your Donation Type</h3>
+            <div class="donation-buttons">
+                <button id="foodDonationBtn">Food Donation</button>
+                <button id="moneyDonationBtn">Money Donation</button>
+            </div>
+        </section>
+
+        <!-- Food Donation Form -->
+        <section id="foodDonationForm" class="donation-form-container">
+            <h3>Food Donation Form</h3>
+            <form>
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
+
+                <label for="food-type">Type of Food:</label>
+                <input type="text" id="food-type" name="food-type" placeholder="E.g., cooked meals, groceries" required>
+
+                <label for="quantity">Quantity of Food (approx.):</label>
+                <input type="number" id="quantity" name="quantity" placeholder="Enter the quantity (in kg or packs)" required>
+
+                <label for="pickup">Pickup Address:</label>
+                <textarea id="pickup" name="pickup" rows="3" placeholder="Enter the address for food pickup" required></textarea>
+
+                <button type="submit">Submit Food Donation</button>
+            </form>
+        </section>
+
+        <!-- Money Donation Form -->
+        <section id="moneyDonationForm" class="donation-form-container hidden">
+            <h3>Money Donation Form</h3>
+            <form>
+                <label for="donor-name">Your Name:</label>
+                <input type="text" id="donor-name" name="donor-name" placeholder="Enter your name" required>
+
+                <label for="donor-email">Email Address:</label>
+                <input type="email" id="donor-email" name="donor-email" placeholder="Enter your email" required>
+
+                <label for="amount">Donation Amount (in USD):</label>
+                <input type="number" id="amount" name="amount" placeholder="Enter the amount you wish to donate" required>
+
+                <label for="message">Message (Optional):</label>
+                <textarea id="message" name="message" rows="3" placeholder="Any special message or purpose for the donation"></textarea>
+
+                <button type="submit">Donate Now</button>
+            </form>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 FoodLink | Impact Makers. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
