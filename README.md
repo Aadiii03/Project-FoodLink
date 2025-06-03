@@ -23,9 +23,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** *(Add here if used — e.g., Firebase, Node.js, etc.)*  
 - **Hosting:** GitHub Pages  
-- **Design Tools:** *(Optional — e.g., Figma, Canva)*
 
 ---
 
@@ -33,8 +31,7 @@
 
 **Abdul Mutallif**  
 - GitHub: [@abdul-mutallif](https://github.com/abdul-mutallif)  
-- LinkedIn: *(Add your LinkedIn link here)*  
-- Instagram (Edits/Content): [@ClipCrafted](https://instagram.com/ClipCrafted)
+- LinkedIn: [@abdul-mutallif](https://www.linkedin.com/in/abdul-mutallif/)  
 
 ---
 
@@ -47,6 +44,7 @@ Pull requests are welcome! If you'd like to improve this project, feel free to f
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+- Created by [@abdul-mutallif](https://github.com/abdul-mutallif)
 
 ---
 
