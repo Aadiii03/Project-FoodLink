@@ -1,12 +1,12 @@
 # 🍱 FoodLink – Connecting Surplus to Smiles
 
-![FoodLink Banner](https://abdul-mutallif.github.io/Project-FoodLink/assets/images/logo.png) <!-- optional: add project banner if available -->
+![FoodLink Banner](https://raw.githubusercontent.com/Aadiii03/Project-FoodLink-/main/assets/images/logo.png)
 
 ## 🌟 About the Project
 
-**FoodLink** is a socially impactful web application designed to reduce food waste and fight hunger by **connecting individuals and organizations with surplus food** to those who need it most. Whether it’s a restaurant, event, or household with extra food, FoodLink enables donors to list surplus meals and allows NGOs or individuals to request and collect it — safely and efficiently.
+**FoodLink** is a socially impactful web application aimed at reducing food waste and fighting hunger by **connecting local messes and food providers with orphanages and old age homes**. It enables donors to list surplus meals, while NGOs or institutions can request and collect it efficiently — promoting sustainability and community support.
 
-🔗 **Live Site:** [FoodLink Web App](https://abdul-mutallif.github.io/Project-FoodLink/about.html)
+🔗 **Live Site:** _Coming Soon – hosted on GitHub Pages_
 
 ---
 
@@ -22,16 +22,16 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Hosting:** GitHub Pages  
+- **Frontend:** HTML, CSS, JavaScript
+- **Hosting:** GitHub Pages (Deployment Pending)
 
 ---
 
 ## 👨‍💻 Developer
 
-**Abdul Mutallif**  
-- GitHub: [@abdul-mutallif](https://github.com/abdul-mutallif)  
-- LinkedIn: [@abdul-mutallif](https://www.linkedin.com/in/abdul-mutallif/)  
+**Adil**
+
+- GitHub: [@Aadiii03](https://github.com/Aadiii03)
 
 ---
 
@@ -44,13 +44,13 @@ Pull requests are welcome! If you'd like to improve this project, feel free to f
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-- Created by [@abdul-mutallif](https://github.com/abdul-mutallif)
+
+- Created with ❤️ by [@Aadiii03](https://github.com/Aadiii03)
 
 ---
 
 ## 🙌 Acknowledgements
 
-Special thanks to all food heroes out there working to make the world better by sharing what they have.
+Special thanks to the local mess owners and the organizations supporting this effort.
 
 > **"One meal wasted is one smile missed." – FoodLink**
-
