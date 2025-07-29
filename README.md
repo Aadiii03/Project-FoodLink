@@ -1,7 +1,7 @@
 # 🍱 FoodLink – Connecting Surplus to Smiles
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink-/main/assets/images/logo.png" width="200" alt="FoodLink Logo">
+  <img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink/main/assets/images/logo.png" width="200" alt="FoodLink Logo">
 </p>
 
 ---
@@ -31,19 +31,19 @@
 
 ### 🏠 Home Page
 
-<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink-/main/assets/home.png" alt="Home Page" width="100%">
+<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink/main/assets/home.png" alt="Home Page" width="100%">
 
 ---
 
 ### 👤 Login Page
 
-<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink-/main/assets/login.png" alt="Login Page" width="100%">
+<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink/main/assets/login.png" alt="Login Page" width="100%">
 
 ---
 
 ### ℹ️ About Page
 
-<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink-/main/assets/about.png" alt="About Page" width="100%">
+<img src="https://raw.githubusercontent.com/Aadiii03/Project-FoodLink/main/assets/about.png" alt="About Page" width="100%">
 
 ---
 
